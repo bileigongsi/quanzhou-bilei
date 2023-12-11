@@ -16,7 +16,7 @@ const config = defineConfig({
 	base: '/quanzhou-bilei/',
 	lang: 'zh-CN',
 	// 网站标题，左上角以及meta标题
-	title: '泉州避雷公司',
+	title: '泉州公司避雷',
 	description: '泉州找工作防踩雷',
 	cleanUrls: true,
 	// 是否忽略死链
@@ -59,9 +59,9 @@ const config = defineConfig({
 		returnToTopLabel: '回到顶部',
 		externalLinkIcon: true,
 		// aside: false,
-		outlineTitle: '此页的章节',
+		outlineTitle: '本页的章节',
 		// 显示层级
-		outline: { level: 'deep', label: '当前页' },
+		outline: { level: 'deep', label: '本页的章节' },
 		// lastUpdatedText: '最近更新时间',
 		siteTitle: '找工作防踩雷',
 		// siteTitle: false, // 不显示标题
@@ -93,15 +93,6 @@ const config = defineConfig({
         openInNewWindow: '在新窗口打开',
         toggleColorMode: '切换颜色模式',
         toggleSidebar: '切换侧边栏',
-	
-//头部导航栏
-    nav: [
-      {
-        text: "相关链接",
-        items: [
-          { text: "泉州避雷公司表格", link: "https://docs.qq.com/sheet/DY2RHc0hoT2xhaHJJ?tab=apero3" },
-        ],
-      },],  //头部导航栏代码结束。
 
 //侧边栏代码开始
 	sidebar: [
@@ -113,7 +104,7 @@ const config = defineConfig({
           { text: "泉州公司黑榜-2", link: "/blacklist/blacklist2" },
           { text: "泉州公司黑榜-3", link: "/blacklist/blacklist3" },
           { text: "泉州公司黑榜-4", link: "/blacklist/blacklist4" },
-          { text: "泉州避雷公司表格", link: "https://docs.qq.com/sheet/DY2RHc0hoT2xhaHJJ?tab=apero3" },
+          { text: "泉州防踩雷表格", link: "https://docs.qq.com/sheet/DY2RHc0hoT2xhaHJJ?tab=apero3" },
         ],
     },
 ], //侧边栏代码结束
@@ -125,8 +116,8 @@ const config = defineConfig({
 	},
 
 	footer: {
-			message: '由 Apache 许可证 2.0 发布。',
-			copyright: '版权所有 © 2023-2024 找工作防踩雷社区',
+			message: '由 Apache 许可证 2.0 发布',
+			copyright: '2023-2024 找工作防踩雷社区',
 	},
 	
 	search: {
