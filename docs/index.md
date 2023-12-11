@@ -15,9 +15,9 @@ aside: false
 
 ## 泉州找工作防踩雷 {#find-work}
 
-泉州<span style="background:#d2cbff"工作雷区</span>！！<br>
+泉州<span style="background:rgba(160, 204, 246, 0.55)"工作雷区</span>！！<br>
 姐妹们给我开飞机跑跑跑跑！！<br>
-这些都是收集来的，还有个别本人<span style="background:#d2cbff"踩过雷的</span>！！！！！
+这些都是收集来的，还有个别本人<span style="background:rgba(160, 204, 246, 0.55)"踩过雷的</span>！！！！！
 
 |提问|互助答复|
 |---|---|
