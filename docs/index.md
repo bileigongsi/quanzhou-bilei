@@ -6,7 +6,7 @@ aside: false
 
 ---
 
-# 泉州避雷公司详解 {#index}
+# 泉州公司避雷详解 {#index}
 
 ::: tip 该网址准备迁移至新网址（预计23年11月中旬）：
 由于 GitHub 托管网站访问速度太慢了，下个月我将租两年的阿里云服务，代理新域名，提升网页访问速度。 <br>
@@ -15,9 +15,9 @@ aside: false
 
 ## 泉州找工作防踩雷 {#find-work}
 
-泉州工作<mark class="hltr-red">雷区</mark>！！<br>
+泉州<span style="background:#d2cbff"工作雷区</span>！！<br>
 姐妹们给我开飞机跑跑跑跑！！<br>
-这些都是收集来的，还有本人<mark class="hltr-red">踩过雷</mark>的！！！！！
+这些都是收集来的，还有个别本人<span style="background:#d2cbff"踩过雷的</span>！！！！！
 
 |提问|互助答复|
 |---|---|

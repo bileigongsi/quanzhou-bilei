@@ -5,7 +5,7 @@ aside: false
 outline: deep
 
 ---
-# 泉州公司黑榜1 {#blacklist1} <Badge type="tip">第3 - 304行</Badge>
+# 泉州公司黑榜1 <Badge type="tip">第3 - 304行</Badge>
 
 > 来源：  [大泉州避雷公司](https://docs.qq.com/sheet/DY0FjY21YeEFReXpz?tab=BB08J2&u=91577ef34f86491a85dbf7a4ba12ec61)  第3 - 304行
 

@@ -6,10 +6,9 @@ aside: false
 
 ---
 
-# 泉州公司黑榜4 {#blacklist4} <Badge type="tip">第841 - 880行</Badge>
+# 泉州公司黑榜4 <Badge type="tip">第841 - 880行</Badge>
 
-> [!NOTE] 来源：
->   [大泉州避雷公司](https://docs.qq.com/sheet/DY0FjY21YeEFReXpz?tab=BB08J2&u=91577ef34f86491a85dbf7a4ba12ec61)  第841 - 880行
+> 来源： [大泉州避雷公司](https://docs.qq.com/sheet/DY0FjY21YeEFReXpz?tab=BB08J2&u=91577ef34f86491a85dbf7a4ba12ec61)  第841 - 880行
 
 |公司名称<img width=200/> |详细地址 <img width=180/> |具体情况（踩坑原因等，欢迎补充！） <img width=300/>| 备注 <img width=150/> |
 |:------|:---|:---|---|

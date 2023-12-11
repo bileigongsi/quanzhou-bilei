@@ -5,10 +5,9 @@ editLink: false
 aside: false
 
 ---
-# 泉州公司黑榜2 {#blacklist2}  <Badge type="tip">第305 - 600行</Badge>
+# 泉州公司黑榜2  <Badge type="tip">第305 - 600行</Badge>
 
-> [!NOTE] 来源：
->   [大泉州避雷公司](https://docs.qq.com/sheet/DY0FjY21YeEFReXpz?tab=BB08J2&u=91577ef34f86491a85dbf7a4ba12ec61)  第305 - 600行。（包括大嫖客老板开的泉州安哥德拉贸易有限公司）
+> 来源： [大泉州避雷公司](https://docs.qq.com/sheet/DY0FjY21YeEFReXpz?tab=BB08J2&u=91577ef34f86491a85dbf7a4ba12ec61)  第305 - 600行。（包括大嫖客老板开的泉州安哥德拉贸易有限公司）
 
 |名称<img width=200/> |详细地址 <img width=180/> |具体情况（踩坑原因等，欢迎补充！） <img width=300/>|来源 <img width=100/>| 备注 <img width=150/> |更新时间 <img width=80/>|
 |---|---|---|---|---|---|
