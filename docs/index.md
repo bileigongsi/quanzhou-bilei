@@ -13,7 +13,7 @@ aside: false
 不过该网址： https://bileigongsi.github.io  将积极更新。
 :::
 
-##### -大泉州找工作防踩雷 
+## 泉州找工作防踩雷 {#find-work}
 
 泉州工作<mark class="hltr-red">雷区</mark>！！<br>
 姐妹们给我开飞机跑跑跑跑！！<br>
@@ -47,17 +47,14 @@ aside: false
 
 ---
 
-##### 公积金是强制缴纳的，公司不给缴又该怎么办？
-<iframe src="//player.bilibili.com/player.html?aid=267661270&bvid=BV13Y411r7Na&cid=1030865751&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
 [公积金是强制缴纳的，公司不给缴又该怎么办？](https://www.bilibili.com/video/BV13Y411r7Na/?spm_id_from=333.999.0.0&vd_source=3ee16de0664c8b3342c6d19b8f532e05)
+<iframe src="//player.bilibili.com/player.html?aid=267661270&bvid=BV13Y411r7Na&cid=1030865751&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ---
 
-##### 劳动仲裁基本流程+所需材料明细
+[申请劳动仲裁 需要提交哪些材料？](http://b23.tv/R9KFKRJ)
 <iframe src="//player.bilibili.com/player.html?aid=700531719&bvid=BV1bm4y1J7Xz&cid=1187108199&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-[申请劳动仲裁 需要提交哪些材料？](http://b23.tv/R9KFKRJ)
 <br>还有公司营业执照复印件：<br>国家企业信息信用信息系统中下载
 
 ---

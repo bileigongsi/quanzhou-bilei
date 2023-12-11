@@ -143,6 +143,7 @@ const config = defineConfig({
 						footer: {
 							selectText: '选择',
 							navigateText: '切换',
+							closeText: '关闭',
 						},
 					},
 				},

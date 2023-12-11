@@ -5,11 +5,12 @@ editLink: false
 aside: false
 
 ---
-# 泉州公司黑榜3 {#blacklist3}
+# 泉州公司黑榜3 {#blacklist3} <Badge type="tip">第601 - 840行</Badge>
 
-> 来自：  [大泉州避雷公司](https://docs.qq.com/sheet/DY0FjY21YeEFReXpz?tab=BB08J2&u=91577ef34f86491a85dbf7a4ba12ec61)  第602 - 841行
+> [!NOTE] 来源：
+>   [大泉州避雷公司](https://docs.qq.com/sheet/DY0FjY21YeEFReXpz?tab=BB08J2&u=91577ef34f86491a85dbf7a4ba12ec61)  第602 - 841行
 
-|名称|详细地址|具体情况（踩坑原因等，欢迎补充！）|来源|备注|更新时间|
+|名称<img width=200/> |详细地址 <img width=180/> |具体情况（踩坑原因等，欢迎补充！） <img width=300/>|来源 <img width=100/>| 备注 <img width=150/> |更新时间 <img width=80/>|
 |---|---|---|---|---|---|
 |佩全生活|泉州丰泽区|拖欠工资拖了两三个月，明显感觉很很多都是沾亲带故的人来上班，很垃圾暑假工长期工都别来|朋友经历||2023/7/7 13:50|
 |泉州速销电子商务有限公司||boss 上问我什么是时候有空面试<br>，我问明天可以吗？直接已读不回（路人甲PS：我也是BOSS经常已读不回一下就不理你，真的很不礼貌）||||
