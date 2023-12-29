@@ -8,8 +8,8 @@ aside: false
 
 # 泉州公司避雷详解 {#index}
 
-::: tip 该网址已经迁移至新域名：https://bileigongsi.icu
-由于 GitHub 托管网站访问速度太慢了，因此租了一年的新域名，提升网页访问速度。 <br>
+::: tip 该网页已迁移至新域名：https://bileigongsi.icu
+由于 GitHub 托管网页访问速度太慢了，因此租了一年的新域名，提升网页访问速度。 <br>
 不过该网址： https://bileigongsi.github.io  将积极更新。
 :::
 
